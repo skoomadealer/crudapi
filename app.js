@@ -4,7 +4,7 @@ const app = express()
 app.get('/', (req, res) => {
     res.send('Log IN')
 })
-app.get('/ahmet', (req, res) => {
+app.get('/seks', (req, res) => {
     res.send('Log IN')
 })
 
