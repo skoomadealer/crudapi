@@ -1,0 +1,15 @@
+{
+  "name": "nodecemo",
+  "version": "1.0.0",
+  "description": "i luv cemo",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
